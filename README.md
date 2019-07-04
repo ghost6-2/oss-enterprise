@@ -13,3 +13,15 @@ This is a **learning** repository. You will see that the `github-learning-lab` b
 ### Getting Started
 
 We hope you are excited to get started! Head over to the take your first steps toward a :sparkles: Open Source program for your company.
+
+
+    What is the purpose of this repository?
+    Training
+    Who should someone contact if they have questions?
+    To the master
+    How should someone make contact if they have questions?
+    email
+    What are the first steps to getting started open sourcing a project?
+    love open source
+    How does this repository relate to other projects and business goals?
+    no how
